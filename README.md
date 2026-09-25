@@ -10,7 +10,7 @@ I'm proud to be part of a cooperative that champions agriculture. Our customers 
 
 AgWest is grounded by tradition and inspired by possibility. I love that combination: deep commitment to our customers, paired with the ambition to keep improving how we serve them.
 
-## What I work on 🛠️
+## What I work on
 
 I lead enterprise architecture work that connects business goals to practical technology decisions. My focus includes:
 
@@ -21,10 +21,6 @@ I lead enterprise architecture work that connects business goals to practical te
 - **Governance that helps:** Bringing clarity to decisions without losing the momentum to innovate.
 
 The best part of this work is doing it with people across AgWest who care about making things better. We are building technology for a mission that matters, and I am excited about what we can accomplish together.
-
-## What I believe
-
-**Start with the customer. Build for change. Make security part of the design. Keep learning. Celebrate the team.**
 
 ---
 
